@@ -1,0 +1,12 @@
+<?php
+
+/*
+Plugin Name: PLUGIN NAME
+Plugin URI: http://YOUR.DOMAIN.EXT/PLUGINPAGEDESCRIPTION
+Description: PLUGIN DESCRIPTION
+Author: WORDPRESS ID
+Version: VERSION
+Author URI: http://YOUR.DOMAIN.EXT
+*/
+
+?>
